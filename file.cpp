@@ -89,7 +89,7 @@ void mergeSort(int low, int high)
 }
 
 void Output(){
-    
+    cout << "\nData setelah diurutkan (Merge Sort): ";
 }
 
 
