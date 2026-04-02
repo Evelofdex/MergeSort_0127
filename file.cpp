@@ -88,6 +88,10 @@ void mergeSort(int low, int high)
     cout << endl;
 }
 
+void Output(){
+    
+}
+
 
 int main(){
 
