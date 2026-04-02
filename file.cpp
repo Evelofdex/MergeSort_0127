@@ -98,5 +98,6 @@ void Output(){
 
 
 int main(){
-
+    input();
+   
 }
